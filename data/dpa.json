@@ -1,0 +1,3764 @@
+[
+  {
+    "codigo": "15",
+    "tipo": "region",
+    "nombre": "De Arica y Parinacota",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": null
+  },
+  {
+    "codigo": "01",
+    "tipo": "region",
+    "nombre": "De Tarapacá",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": null
+  },
+  {
+    "codigo": "02",
+    "tipo": "region",
+    "nombre": "De Antofagasta",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": null
+  },
+  {
+    "codigo": "03",
+    "tipo": "region",
+    "nombre": "De Atacama",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": null
+  },
+  {
+    "codigo": "04",
+    "tipo": "region",
+    "nombre": "De Coquimbo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": null
+  },
+  {
+    "codigo": "05",
+    "tipo": "region",
+    "nombre": "De Valparaíso",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": null
+  },
+  {
+    "codigo": "06",
+    "tipo": "region",
+    "nombre": "Del Libertador B. O'Higgins",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": null
+  },
+  {
+    "codigo": "07",
+    "tipo": "region",
+    "nombre": "Del Maule",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": null
+  },
+  {
+    "codigo": "08",
+    "tipo": "region",
+    "nombre": "Del Bíobío",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": null
+  },
+  {
+    "codigo": "16",
+    "tipo": "region",
+    "nombre": "De Ñuble",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": null
+  },
+  {
+    "codigo": "09",
+    "tipo": "region",
+    "nombre": "De La Araucanía",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": null
+  },
+  {
+    "codigo": "14",
+    "tipo": "region",
+    "nombre": "De Los Ríos",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": null
+  },
+  {
+    "codigo": "10",
+    "tipo": "region",
+    "nombre": "De Los Lagos",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": null
+  },
+  {
+    "codigo": "11",
+    "tipo": "region",
+    "nombre": "De Aisén del Gral. C. Ibáñez del Campo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": null
+  },
+  {
+    "codigo": "12",
+    "tipo": "region",
+    "nombre": "De Magallanes y de La Antártica Chilena",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": null
+  },
+  {
+    "codigo": "13",
+    "tipo": "region",
+    "nombre": "Metropolitana de Santiago",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": null
+  },
+  {
+    "codigo": "151",
+    "tipo": "provincia",
+    "nombre": "Arica",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "15"
+  },
+  {
+    "codigo": "152",
+    "tipo": "provincia",
+    "nombre": "Parinacota",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "15"
+  },
+  {
+    "codigo": "011",
+    "tipo": "provincia",
+    "nombre": "Iquique",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "01"
+  },
+  {
+    "codigo": "014",
+    "tipo": "provincia",
+    "nombre": "Tamarugal",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "01"
+  },
+  {
+    "codigo": "021",
+    "tipo": "provincia",
+    "nombre": "Antofagasta",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "02"
+  },
+  {
+    "codigo": "022",
+    "tipo": "provincia",
+    "nombre": "El Loa",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "02"
+  },
+  {
+    "codigo": "023",
+    "tipo": "provincia",
+    "nombre": "Tocopilla",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "02"
+  },
+  {
+    "codigo": "031",
+    "tipo": "provincia",
+    "nombre": "Copiapó",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "03"
+  },
+  {
+    "codigo": "032",
+    "tipo": "provincia",
+    "nombre": "Chañaral",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "03"
+  },
+  {
+    "codigo": "033",
+    "tipo": "provincia",
+    "nombre": "Huasco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "03"
+  },
+  {
+    "codigo": "041",
+    "tipo": "provincia",
+    "nombre": "Elqui",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "04"
+  },
+  {
+    "codigo": "042",
+    "tipo": "provincia",
+    "nombre": "Choapa",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "04"
+  },
+  {
+    "codigo": "043",
+    "tipo": "provincia",
+    "nombre": "Limari",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "04"
+  },
+  {
+    "codigo": "051",
+    "tipo": "provincia",
+    "nombre": "Valparaíso",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "05"
+  },
+  {
+    "codigo": "058",
+    "tipo": "provincia",
+    "nombre": "Marga Marga",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "05"
+  },
+  {
+    "codigo": "052",
+    "tipo": "provincia",
+    "nombre": "Isla de Pascua",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "05"
+  },
+  {
+    "codigo": "053",
+    "tipo": "provincia",
+    "nombre": "Los Andes",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "05"
+  },
+  {
+    "codigo": "054",
+    "tipo": "provincia",
+    "nombre": "Petorca",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "05"
+  },
+  {
+    "codigo": "055",
+    "tipo": "provincia",
+    "nombre": "Quillota",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "05"
+  },
+  {
+    "codigo": "056",
+    "tipo": "provincia",
+    "nombre": "San Antonio",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "05"
+  },
+  {
+    "codigo": "057",
+    "tipo": "provincia",
+    "nombre": "San Felipe",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "05"
+  },
+  {
+    "codigo": "061",
+    "tipo": "provincia",
+    "nombre": "Cachapoal",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "06"
+  },
+  {
+    "codigo": "062",
+    "tipo": "provincia",
+    "nombre": "Cardenal Caro",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "06"
+  },
+  {
+    "codigo": "063",
+    "tipo": "provincia",
+    "nombre": "Colchagua",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "06"
+  },
+  {
+    "codigo": "071",
+    "tipo": "provincia",
+    "nombre": "Talca",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "07"
+  },
+  {
+    "codigo": "072",
+    "tipo": "provincia",
+    "nombre": "Cauquenes",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "07"
+  },
+  {
+    "codigo": "073",
+    "tipo": "provincia",
+    "nombre": "Curico",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "07"
+  },
+  {
+    "codigo": "074",
+    "tipo": "provincia",
+    "nombre": "Linares",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "07"
+  },
+  {
+    "codigo": "081",
+    "tipo": "provincia",
+    "nombre": "Concepción",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "08"
+  },
+  {
+    "codigo": "082",
+    "tipo": "provincia",
+    "nombre": "Arauco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "08"
+  },
+  {
+    "codigo": "083",
+    "tipo": "provincia",
+    "nombre": "Bío- Bío",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "08"
+  },
+  {
+    "codigo": "161",
+    "tipo": "provincia",
+    "nombre": "Diguillín",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "16"
+  },
+  {
+    "codigo": "162",
+    "tipo": "provincia",
+    "nombre": "Itata",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "16"
+  },
+  {
+    "codigo": "163",
+    "tipo": "provincia",
+    "nombre": "Punilla",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "16"
+  },
+  {
+    "codigo": "091",
+    "tipo": "provincia",
+    "nombre": "Cautín",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "09"
+  },
+  {
+    "codigo": "092",
+    "tipo": "provincia",
+    "nombre": "Malleco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "09"
+  },
+  {
+    "codigo": "141",
+    "tipo": "provincia",
+    "nombre": "Valdivia",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "14"
+  },
+  {
+    "codigo": "142",
+    "tipo": "provincia",
+    "nombre": "Ranco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "14"
+  },
+  {
+    "codigo": "101",
+    "tipo": "provincia",
+    "nombre": "Llanquihue",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "10"
+  },
+  {
+    "codigo": "102",
+    "tipo": "provincia",
+    "nombre": "Chiloe",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "10"
+  },
+  {
+    "codigo": "103",
+    "tipo": "provincia",
+    "nombre": "Osorno",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "10"
+  },
+  {
+    "codigo": "104",
+    "tipo": "provincia",
+    "nombre": "Palena",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "10"
+  },
+  {
+    "codigo": "111",
+    "tipo": "provincia",
+    "nombre": "Coihaique",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "11"
+  },
+  {
+    "codigo": "112",
+    "tipo": "provincia",
+    "nombre": "Aisén",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "11"
+  },
+  {
+    "codigo": "113",
+    "tipo": "provincia",
+    "nombre": "Capitan Prat",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "11"
+  },
+  {
+    "codigo": "114",
+    "tipo": "provincia",
+    "nombre": "General Carrera",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "11"
+  },
+  {
+    "codigo": "121",
+    "tipo": "provincia",
+    "nombre": "Magallanes",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "12"
+  },
+  {
+    "codigo": "122",
+    "tipo": "provincia",
+    "nombre": "Antártica Chilena",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "12"
+  },
+  {
+    "codigo": "123",
+    "tipo": "provincia",
+    "nombre": "Tierra del Fuego",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "12"
+  },
+  {
+    "codigo": "124",
+    "tipo": "provincia",
+    "nombre": "Ultima Esperanza",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "12"
+  },
+  {
+    "codigo": "131",
+    "tipo": "provincia",
+    "nombre": "Santiago",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "13"
+  },
+  {
+    "codigo": "132",
+    "tipo": "provincia",
+    "nombre": "Cordillera",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "13"
+  },
+  {
+    "codigo": "133",
+    "tipo": "provincia",
+    "nombre": "Chacabuco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "13"
+  },
+  {
+    "codigo": "134",
+    "tipo": "provincia",
+    "nombre": "Maipo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "13"
+  },
+  {
+    "codigo": "135",
+    "tipo": "provincia",
+    "nombre": "Melipilla",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "13"
+  },
+  {
+    "codigo": "136",
+    "tipo": "provincia",
+    "nombre": "Talagante",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "13"
+  },
+  {
+    "codigo": "15101",
+    "tipo": "comuna",
+    "nombre": "Arica",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "151"
+  },
+  {
+    "codigo": "15102",
+    "tipo": "comuna",
+    "nombre": "Camarones",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "151"
+  },
+  {
+    "codigo": "15201",
+    "tipo": "comuna",
+    "nombre": "Putre",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "152"
+  },
+  {
+    "codigo": "15202",
+    "tipo": "comuna",
+    "nombre": "General Lagos",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "152"
+  },
+  {
+    "codigo": "01101",
+    "tipo": "comuna",
+    "nombre": "Iquique",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "011"
+  },
+  {
+    "codigo": "01402",
+    "tipo": "comuna",
+    "nombre": "Camiña",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "014"
+  },
+  {
+    "codigo": "01403",
+    "tipo": "comuna",
+    "nombre": "Colchane",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "014"
+  },
+  {
+    "codigo": "01404",
+    "tipo": "comuna",
+    "nombre": "Huara",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "014"
+  },
+  {
+    "codigo": "01405",
+    "tipo": "comuna",
+    "nombre": "Pica",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "014"
+  },
+  {
+    "codigo": "01401",
+    "tipo": "comuna",
+    "nombre": "Pozo Almonte",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "014"
+  },
+  {
+    "codigo": "01107",
+    "tipo": "comuna",
+    "nombre": "Alto Hospicio",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "011"
+  },
+  {
+    "codigo": "02101",
+    "tipo": "comuna",
+    "nombre": "Antofagasta",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "021"
+  },
+  {
+    "codigo": "02102",
+    "tipo": "comuna",
+    "nombre": "Mejillones",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "021"
+  },
+  {
+    "codigo": "02103",
+    "tipo": "comuna",
+    "nombre": "Sierra Gorda",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "021"
+  },
+  {
+    "codigo": "02104",
+    "tipo": "comuna",
+    "nombre": "Taltal",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "021"
+  },
+  {
+    "codigo": "02201",
+    "tipo": "comuna",
+    "nombre": "Calama",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "022"
+  },
+  {
+    "codigo": "02202",
+    "tipo": "comuna",
+    "nombre": "Ollagüe",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "022"
+  },
+  {
+    "codigo": "02203",
+    "tipo": "comuna",
+    "nombre": "San Pedro de Atacama",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "022"
+  },
+  {
+    "codigo": "02301",
+    "tipo": "comuna",
+    "nombre": "Tocopilla",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "023"
+  },
+  {
+    "codigo": "02302",
+    "tipo": "comuna",
+    "nombre": "María Elena",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "023"
+  },
+  {
+    "codigo": "03101",
+    "tipo": "comuna",
+    "nombre": "Copiapó",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "031"
+  },
+  {
+    "codigo": "03102",
+    "tipo": "comuna",
+    "nombre": "Caldera",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "031"
+  },
+  {
+    "codigo": "03103",
+    "tipo": "comuna",
+    "nombre": "Tierra Amarilla",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "031"
+  },
+  {
+    "codigo": "03201",
+    "tipo": "comuna",
+    "nombre": "Chañaral",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "032"
+  },
+  {
+    "codigo": "03202",
+    "tipo": "comuna",
+    "nombre": "Diego de Almagro",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "032"
+  },
+  {
+    "codigo": "03301",
+    "tipo": "comuna",
+    "nombre": "Vallenar",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "033"
+  },
+  {
+    "codigo": "03302",
+    "tipo": "comuna",
+    "nombre": "Alto del Carmen",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "033"
+  },
+  {
+    "codigo": "03303",
+    "tipo": "comuna",
+    "nombre": "Freirina",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "033"
+  },
+  {
+    "codigo": "03304",
+    "tipo": "comuna",
+    "nombre": "Huasco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "033"
+  },
+  {
+    "codigo": "04101",
+    "tipo": "comuna",
+    "nombre": "La Serena",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "041"
+  },
+  {
+    "codigo": "04102",
+    "tipo": "comuna",
+    "nombre": "Coquimbo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "041"
+  },
+  {
+    "codigo": "04103",
+    "tipo": "comuna",
+    "nombre": "Andacollo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "041"
+  },
+  {
+    "codigo": "04104",
+    "tipo": "comuna",
+    "nombre": "La Higuera",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "041"
+  },
+  {
+    "codigo": "04105",
+    "tipo": "comuna",
+    "nombre": "Paiguano",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "041"
+  },
+  {
+    "codigo": "04106",
+    "tipo": "comuna",
+    "nombre": "Vicuña",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "041"
+  },
+  {
+    "codigo": "04201",
+    "tipo": "comuna",
+    "nombre": "Illapel",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "042"
+  },
+  {
+    "codigo": "04202",
+    "tipo": "comuna",
+    "nombre": "Canela",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "042"
+  },
+  {
+    "codigo": "04203",
+    "tipo": "comuna",
+    "nombre": "Los Vilos",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "042"
+  },
+  {
+    "codigo": "04204",
+    "tipo": "comuna",
+    "nombre": "Salamanca",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "042"
+  },
+  {
+    "codigo": "04301",
+    "tipo": "comuna",
+    "nombre": "Ovalle",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "043"
+  },
+  {
+    "codigo": "04302",
+    "tipo": "comuna",
+    "nombre": "Combarbalá",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "043"
+  },
+  {
+    "codigo": "04303",
+    "tipo": "comuna",
+    "nombre": "Monte Patria",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "043"
+  },
+  {
+    "codigo": "04304",
+    "tipo": "comuna",
+    "nombre": "Punitaqui",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "043"
+  },
+  {
+    "codigo": "04305",
+    "tipo": "comuna",
+    "nombre": "Río Hurtado",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "043"
+  },
+  {
+    "codigo": "05101",
+    "tipo": "comuna",
+    "nombre": "Valparaíso",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "051"
+  },
+  {
+    "codigo": "05102",
+    "tipo": "comuna",
+    "nombre": "Casablanca",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "051"
+  },
+  {
+    "codigo": "05103",
+    "tipo": "comuna",
+    "nombre": "Concón",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "051"
+  },
+  {
+    "codigo": "05104",
+    "tipo": "comuna",
+    "nombre": "Juan Fernández",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "051"
+  },
+  {
+    "codigo": "05105",
+    "tipo": "comuna",
+    "nombre": "Puchuncaví",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "051"
+  },
+  {
+    "codigo": "05801",
+    "tipo": "comuna",
+    "nombre": "Quilpué",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "058"
+  },
+  {
+    "codigo": "05107",
+    "tipo": "comuna",
+    "nombre": "Quintero",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "051"
+  },
+  {
+    "codigo": "05804",
+    "tipo": "comuna",
+    "nombre": "Villa Alemana",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "058"
+  },
+  {
+    "codigo": "05109",
+    "tipo": "comuna",
+    "nombre": "Viña del Mar",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "051"
+  },
+  {
+    "codigo": "05201",
+    "tipo": "comuna",
+    "nombre": "Isla  de Pascua",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "052"
+  },
+  {
+    "codigo": "05301",
+    "tipo": "comuna",
+    "nombre": "Los Andes",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "053"
+  },
+  {
+    "codigo": "05302",
+    "tipo": "comuna",
+    "nombre": "Calle Larga",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "053"
+  },
+  {
+    "codigo": "05303",
+    "tipo": "comuna",
+    "nombre": "Rinconada",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "053"
+  },
+  {
+    "codigo": "05304",
+    "tipo": "comuna",
+    "nombre": "San Esteban",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "053"
+  },
+  {
+    "codigo": "05401",
+    "tipo": "comuna",
+    "nombre": "La Ligua",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "054"
+  },
+  {
+    "codigo": "05402",
+    "tipo": "comuna",
+    "nombre": "Cabildo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "054"
+  },
+  {
+    "codigo": "05403",
+    "tipo": "comuna",
+    "nombre": "Papudo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "054"
+  },
+  {
+    "codigo": "05404",
+    "tipo": "comuna",
+    "nombre": "Petorca",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "054"
+  },
+  {
+    "codigo": "05405",
+    "tipo": "comuna",
+    "nombre": "Zapallar",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "054"
+  },
+  {
+    "codigo": "05501",
+    "tipo": "comuna",
+    "nombre": "Quillota",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "055"
+  },
+  {
+    "codigo": "05502",
+    "tipo": "comuna",
+    "nombre": "Calera",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "055"
+  },
+  {
+    "codigo": "05503",
+    "tipo": "comuna",
+    "nombre": "Hijuelas",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "055"
+  },
+  {
+    "codigo": "05504",
+    "tipo": "comuna",
+    "nombre": "La Cruz",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "055"
+  },
+  {
+    "codigo": "05802",
+    "tipo": "comuna",
+    "nombre": "Limache",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "058"
+  },
+  {
+    "codigo": "05506",
+    "tipo": "comuna",
+    "nombre": "Nogales",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "055"
+  },
+  {
+    "codigo": "05803",
+    "tipo": "comuna",
+    "nombre": "Olmué",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "058"
+  },
+  {
+    "codigo": "05601",
+    "tipo": "comuna",
+    "nombre": "San Antonio",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "056"
+  },
+  {
+    "codigo": "05602",
+    "tipo": "comuna",
+    "nombre": "Algarrobo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "056"
+  },
+  {
+    "codigo": "05603",
+    "tipo": "comuna",
+    "nombre": "Cartagena",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "056"
+  },
+  {
+    "codigo": "05604",
+    "tipo": "comuna",
+    "nombre": "El Quisco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "056"
+  },
+  {
+    "codigo": "05605",
+    "tipo": "comuna",
+    "nombre": "El Tabo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "056"
+  },
+  {
+    "codigo": "05606",
+    "tipo": "comuna",
+    "nombre": "Santo Domingo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "056"
+  },
+  {
+    "codigo": "05701",
+    "tipo": "comuna",
+    "nombre": "San Felipe",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "057"
+  },
+  {
+    "codigo": "05702",
+    "tipo": "comuna",
+    "nombre": "Catemu",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "057"
+  },
+  {
+    "codigo": "05703",
+    "tipo": "comuna",
+    "nombre": "Llaillay",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "057"
+  },
+  {
+    "codigo": "05704",
+    "tipo": "comuna",
+    "nombre": "Panquehue",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "057"
+  },
+  {
+    "codigo": "05705",
+    "tipo": "comuna",
+    "nombre": "Putaendo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "057"
+  },
+  {
+    "codigo": "05706",
+    "tipo": "comuna",
+    "nombre": "Santa María",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "057"
+  },
+  {
+    "codigo": "06101",
+    "tipo": "comuna",
+    "nombre": "Rancagua",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "061"
+  },
+  {
+    "codigo": "06102",
+    "tipo": "comuna",
+    "nombre": "Codegua",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "061"
+  },
+  {
+    "codigo": "06103",
+    "tipo": "comuna",
+    "nombre": "Coinco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "061"
+  },
+  {
+    "codigo": "06104",
+    "tipo": "comuna",
+    "nombre": "Coltauco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "061"
+  },
+  {
+    "codigo": "06105",
+    "tipo": "comuna",
+    "nombre": "Doñihue",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "061"
+  },
+  {
+    "codigo": "06106",
+    "tipo": "comuna",
+    "nombre": "Graneros",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "061"
+  },
+  {
+    "codigo": "06107",
+    "tipo": "comuna",
+    "nombre": "Las Cabras",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "061"
+  },
+  {
+    "codigo": "06108",
+    "tipo": "comuna",
+    "nombre": "Machalí",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "061"
+  },
+  {
+    "codigo": "06109",
+    "tipo": "comuna",
+    "nombre": "Malloa",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "061"
+  },
+  {
+    "codigo": "06110",
+    "tipo": "comuna",
+    "nombre": "Mostazal",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "061"
+  },
+  {
+    "codigo": "06111",
+    "tipo": "comuna",
+    "nombre": "Olivar",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "061"
+  },
+  {
+    "codigo": "06112",
+    "tipo": "comuna",
+    "nombre": "Peumo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "061"
+  },
+  {
+    "codigo": "06113",
+    "tipo": "comuna",
+    "nombre": "Pichidegua",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "061"
+  },
+  {
+    "codigo": "06114",
+    "tipo": "comuna",
+    "nombre": "Quinta de Tilcoco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "061"
+  },
+  {
+    "codigo": "06115",
+    "tipo": "comuna",
+    "nombre": "Rengo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "061"
+  },
+  {
+    "codigo": "06116",
+    "tipo": "comuna",
+    "nombre": "Requínoa",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "061"
+  },
+  {
+    "codigo": "06117",
+    "tipo": "comuna",
+    "nombre": "San Vicente",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "061"
+  },
+  {
+    "codigo": "06201",
+    "tipo": "comuna",
+    "nombre": "Pichilemu",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "062"
+  },
+  {
+    "codigo": "06202",
+    "tipo": "comuna",
+    "nombre": "La Estrella",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "062"
+  },
+  {
+    "codigo": "06203",
+    "tipo": "comuna",
+    "nombre": "Litueche",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "062"
+  },
+  {
+    "codigo": "06204",
+    "tipo": "comuna",
+    "nombre": "Marchihue",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "062"
+  },
+  {
+    "codigo": "06205",
+    "tipo": "comuna",
+    "nombre": "Navidad",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "062"
+  },
+  {
+    "codigo": "06206",
+    "tipo": "comuna",
+    "nombre": "Paredones",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "062"
+  },
+  {
+    "codigo": "06301",
+    "tipo": "comuna",
+    "nombre": "San Fernando",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "063"
+  },
+  {
+    "codigo": "06302",
+    "tipo": "comuna",
+    "nombre": "Chépica",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "063"
+  },
+  {
+    "codigo": "06303",
+    "tipo": "comuna",
+    "nombre": "Chimbarongo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "063"
+  },
+  {
+    "codigo": "06304",
+    "tipo": "comuna",
+    "nombre": "Lolol",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "063"
+  },
+  {
+    "codigo": "06305",
+    "tipo": "comuna",
+    "nombre": "Nancagua",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "063"
+  },
+  {
+    "codigo": "06306",
+    "tipo": "comuna",
+    "nombre": "Palmilla",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "063"
+  },
+  {
+    "codigo": "06307",
+    "tipo": "comuna",
+    "nombre": "Peralillo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "063"
+  },
+  {
+    "codigo": "06308",
+    "tipo": "comuna",
+    "nombre": "Placilla",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "063"
+  },
+  {
+    "codigo": "06309",
+    "tipo": "comuna",
+    "nombre": "Pumanque",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "063"
+  },
+  {
+    "codigo": "06310",
+    "tipo": "comuna",
+    "nombre": "Santa Cruz",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "063"
+  },
+  {
+    "codigo": "07101",
+    "tipo": "comuna",
+    "nombre": "Talca",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "071"
+  },
+  {
+    "codigo": "07102",
+    "tipo": "comuna",
+    "nombre": "Constitución",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "071"
+  },
+  {
+    "codigo": "07103",
+    "tipo": "comuna",
+    "nombre": "Curepto",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "071"
+  },
+  {
+    "codigo": "07104",
+    "tipo": "comuna",
+    "nombre": "Empedrado",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "071"
+  },
+  {
+    "codigo": "07105",
+    "tipo": "comuna",
+    "nombre": "Maule",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "071"
+  },
+  {
+    "codigo": "07106",
+    "tipo": "comuna",
+    "nombre": "Pelarco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "071"
+  },
+  {
+    "codigo": "07107",
+    "tipo": "comuna",
+    "nombre": "Pencahue",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "071"
+  },
+  {
+    "codigo": "07108",
+    "tipo": "comuna",
+    "nombre": "Río Claro",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "071"
+  },
+  {
+    "codigo": "07109",
+    "tipo": "comuna",
+    "nombre": "San Clemente",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "071"
+  },
+  {
+    "codigo": "07110",
+    "tipo": "comuna",
+    "nombre": "San Rafael",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "071"
+  },
+  {
+    "codigo": "07201",
+    "tipo": "comuna",
+    "nombre": "Cauquenes",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "072"
+  },
+  {
+    "codigo": "07202",
+    "tipo": "comuna",
+    "nombre": "Chanco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "072"
+  },
+  {
+    "codigo": "07203",
+    "tipo": "comuna",
+    "nombre": "Pelluhue",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "072"
+  },
+  {
+    "codigo": "07301",
+    "tipo": "comuna",
+    "nombre": "Curicó",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "073"
+  },
+  {
+    "codigo": "07302",
+    "tipo": "comuna",
+    "nombre": "Hualañé",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "073"
+  },
+  {
+    "codigo": "07303",
+    "tipo": "comuna",
+    "nombre": "Licantén",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "073"
+  },
+  {
+    "codigo": "07304",
+    "tipo": "comuna",
+    "nombre": "Molina",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "073"
+  },
+  {
+    "codigo": "07305",
+    "tipo": "comuna",
+    "nombre": "Rauco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "073"
+  },
+  {
+    "codigo": "07306",
+    "tipo": "comuna",
+    "nombre": "Romeral",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "073"
+  },
+  {
+    "codigo": "07307",
+    "tipo": "comuna",
+    "nombre": "Sagrada Familia",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "073"
+  },
+  {
+    "codigo": "07308",
+    "tipo": "comuna",
+    "nombre": "Teno",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "073"
+  },
+  {
+    "codigo": "07309",
+    "tipo": "comuna",
+    "nombre": "Vichuquén",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "073"
+  },
+  {
+    "codigo": "07401",
+    "tipo": "comuna",
+    "nombre": "Linares",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "074"
+  },
+  {
+    "codigo": "07402",
+    "tipo": "comuna",
+    "nombre": "Colbún",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "074"
+  },
+  {
+    "codigo": "07403",
+    "tipo": "comuna",
+    "nombre": "Longaví",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "074"
+  },
+  {
+    "codigo": "07404",
+    "tipo": "comuna",
+    "nombre": "Parral",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "074"
+  },
+  {
+    "codigo": "07405",
+    "tipo": "comuna",
+    "nombre": "Retiro",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "074"
+  },
+  {
+    "codigo": "07406",
+    "tipo": "comuna",
+    "nombre": "San Javier",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "074"
+  },
+  {
+    "codigo": "07407",
+    "tipo": "comuna",
+    "nombre": "Villa Alegre",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "074"
+  },
+  {
+    "codigo": "07408",
+    "tipo": "comuna",
+    "nombre": "Yerbas Buenas",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "074"
+  },
+  {
+    "codigo": "08101",
+    "tipo": "comuna",
+    "nombre": "Concepción",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "081"
+  },
+  {
+    "codigo": "08102",
+    "tipo": "comuna",
+    "nombre": "Coronel",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "081"
+  },
+  {
+    "codigo": "08103",
+    "tipo": "comuna",
+    "nombre": "Chiguayante",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "081"
+  },
+  {
+    "codigo": "08104",
+    "tipo": "comuna",
+    "nombre": "Florida",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "081"
+  },
+  {
+    "codigo": "08105",
+    "tipo": "comuna",
+    "nombre": "Hualqui",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "081"
+  },
+  {
+    "codigo": "08106",
+    "tipo": "comuna",
+    "nombre": "Lota",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "081"
+  },
+  {
+    "codigo": "08107",
+    "tipo": "comuna",
+    "nombre": "Penco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "081"
+  },
+  {
+    "codigo": "08108",
+    "tipo": "comuna",
+    "nombre": "San Pedro de la Paz",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "081"
+  },
+  {
+    "codigo": "08109",
+    "tipo": "comuna",
+    "nombre": "Santa Juana",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "081"
+  },
+  {
+    "codigo": "08110",
+    "tipo": "comuna",
+    "nombre": "Talcahuano",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "081"
+  },
+  {
+    "codigo": "08111",
+    "tipo": "comuna",
+    "nombre": "Tomé",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "081"
+  },
+  {
+    "codigo": "08112",
+    "tipo": "comuna",
+    "nombre": "Hualpén",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "081"
+  },
+  {
+    "codigo": "08201",
+    "tipo": "comuna",
+    "nombre": "Lebu",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "082"
+  },
+  {
+    "codigo": "08202",
+    "tipo": "comuna",
+    "nombre": "Arauco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "082"
+  },
+  {
+    "codigo": "08203",
+    "tipo": "comuna",
+    "nombre": "Cañete",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "082"
+  },
+  {
+    "codigo": "08204",
+    "tipo": "comuna",
+    "nombre": "Contulmo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "082"
+  },
+  {
+    "codigo": "08205",
+    "tipo": "comuna",
+    "nombre": "Curanilahue",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "082"
+  },
+  {
+    "codigo": "08206",
+    "tipo": "comuna",
+    "nombre": "Los Álamos",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "082"
+  },
+  {
+    "codigo": "08207",
+    "tipo": "comuna",
+    "nombre": "Tirúa",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "082"
+  },
+  {
+    "codigo": "08301",
+    "tipo": "comuna",
+    "nombre": "Los Ángeles",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "083"
+  },
+  {
+    "codigo": "08302",
+    "tipo": "comuna",
+    "nombre": "Antuco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "083"
+  },
+  {
+    "codigo": "08303",
+    "tipo": "comuna",
+    "nombre": "Cabrero",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "083"
+  },
+  {
+    "codigo": "08304",
+    "tipo": "comuna",
+    "nombre": "Laja",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "083"
+  },
+  {
+    "codigo": "08305",
+    "tipo": "comuna",
+    "nombre": "Mulchén",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "083"
+  },
+  {
+    "codigo": "08306",
+    "tipo": "comuna",
+    "nombre": "Nacimiento",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "083"
+  },
+  {
+    "codigo": "08307",
+    "tipo": "comuna",
+    "nombre": "Negrete",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "083"
+  },
+  {
+    "codigo": "08308",
+    "tipo": "comuna",
+    "nombre": "Quilaco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "083"
+  },
+  {
+    "codigo": "08309",
+    "tipo": "comuna",
+    "nombre": "Quilleco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "083"
+  },
+  {
+    "codigo": "08310",
+    "tipo": "comuna",
+    "nombre": "San Rosendo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "083"
+  },
+  {
+    "codigo": "08311",
+    "tipo": "comuna",
+    "nombre": "Santa Bárbara",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "083"
+  },
+  {
+    "codigo": "08312",
+    "tipo": "comuna",
+    "nombre": "Tucapel",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "083"
+  },
+  {
+    "codigo": "08313",
+    "tipo": "comuna",
+    "nombre": "Yumbel",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "083"
+  },
+  {
+    "codigo": "08314",
+    "tipo": "comuna",
+    "nombre": "Alto Biobío",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "083"
+  },
+  {
+    "codigo": "16101",
+    "tipo": "comuna",
+    "nombre": "Chillán",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "161"
+  },
+  {
+    "codigo": "16102",
+    "tipo": "comuna",
+    "nombre": "Bulnes",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "161"
+  },
+  {
+    "codigo": "16202",
+    "tipo": "comuna",
+    "nombre": "Cobquecura",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "162"
+  },
+  {
+    "codigo": "16203",
+    "tipo": "comuna",
+    "nombre": "Coelemu",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "162"
+  },
+  {
+    "codigo": "16302",
+    "tipo": "comuna",
+    "nombre": "Coihueco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "163"
+  },
+  {
+    "codigo": "16103",
+    "tipo": "comuna",
+    "nombre": "Chillán Viejo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "161"
+  },
+  {
+    "codigo": "16104",
+    "tipo": "comuna",
+    "nombre": "El Carmen",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "161"
+  },
+  {
+    "codigo": "16204",
+    "tipo": "comuna",
+    "nombre": "Ninhue",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "162"
+  },
+  {
+    "codigo": "16303",
+    "tipo": "comuna",
+    "nombre": "Ñiquén",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "163"
+  },
+  {
+    "codigo": "16105",
+    "tipo": "comuna",
+    "nombre": "Pemuco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "161"
+  },
+  {
+    "codigo": "16106",
+    "tipo": "comuna",
+    "nombre": "Pinto",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "161"
+  },
+  {
+    "codigo": "16205",
+    "tipo": "comuna",
+    "nombre": "Portezuelo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "162"
+  },
+  {
+    "codigo": "16107",
+    "tipo": "comuna",
+    "nombre": "Quillón",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "161"
+  },
+  {
+    "codigo": "16201",
+    "tipo": "comuna",
+    "nombre": "Quirihue",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "162"
+  },
+  {
+    "codigo": "16206",
+    "tipo": "comuna",
+    "nombre": "Ránquil",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "162"
+  },
+  {
+    "codigo": "16301",
+    "tipo": "comuna",
+    "nombre": "San Carlos",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "163"
+  },
+  {
+    "codigo": "16304",
+    "tipo": "comuna",
+    "nombre": "San Fabián",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "163"
+  },
+  {
+    "codigo": "16108",
+    "tipo": "comuna",
+    "nombre": "San Ignacio",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "161"
+  },
+  {
+    "codigo": "16305",
+    "tipo": "comuna",
+    "nombre": "San Nicolás",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "163"
+  },
+  {
+    "codigo": "16207",
+    "tipo": "comuna",
+    "nombre": "Treguaco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "162"
+  },
+  {
+    "codigo": "16109",
+    "tipo": "comuna",
+    "nombre": "Yungay",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "161"
+  },
+  {
+    "codigo": "09101",
+    "tipo": "comuna",
+    "nombre": "Temuco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09102",
+    "tipo": "comuna",
+    "nombre": "Carahue",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09103",
+    "tipo": "comuna",
+    "nombre": "Cunco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09104",
+    "tipo": "comuna",
+    "nombre": "Curarrehue",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09105",
+    "tipo": "comuna",
+    "nombre": "Freire",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09106",
+    "tipo": "comuna",
+    "nombre": "Galvarino",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09107",
+    "tipo": "comuna",
+    "nombre": "Gorbea",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09108",
+    "tipo": "comuna",
+    "nombre": "Lautaro",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09109",
+    "tipo": "comuna",
+    "nombre": "Loncoche",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09110",
+    "tipo": "comuna",
+    "nombre": "Melipeuco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09111",
+    "tipo": "comuna",
+    "nombre": "Nueva Imperial",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09112",
+    "tipo": "comuna",
+    "nombre": "Padre Las Casas",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09113",
+    "tipo": "comuna",
+    "nombre": "Perquenco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09114",
+    "tipo": "comuna",
+    "nombre": "Pitrufquén",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09115",
+    "tipo": "comuna",
+    "nombre": "Pucón",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09116",
+    "tipo": "comuna",
+    "nombre": "Saavedra",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09117",
+    "tipo": "comuna",
+    "nombre": "Teodoro Schmidt",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09118",
+    "tipo": "comuna",
+    "nombre": "Toltén",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09119",
+    "tipo": "comuna",
+    "nombre": "Vilcún",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09120",
+    "tipo": "comuna",
+    "nombre": "Villarrica",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09121",
+    "tipo": "comuna",
+    "nombre": "Cholchol",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "091"
+  },
+  {
+    "codigo": "09201",
+    "tipo": "comuna",
+    "nombre": "Angol",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "092"
+  },
+  {
+    "codigo": "09202",
+    "tipo": "comuna",
+    "nombre": "Collipulli",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "092"
+  },
+  {
+    "codigo": "09203",
+    "tipo": "comuna",
+    "nombre": "Curacautín",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "092"
+  },
+  {
+    "codigo": "09204",
+    "tipo": "comuna",
+    "nombre": "Ercilla",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "092"
+  },
+  {
+    "codigo": "09205",
+    "tipo": "comuna",
+    "nombre": "Lonquimay",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "092"
+  },
+  {
+    "codigo": "09206",
+    "tipo": "comuna",
+    "nombre": "Los Sauces",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "092"
+  },
+  {
+    "codigo": "09207",
+    "tipo": "comuna",
+    "nombre": "Lumaco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "092"
+  },
+  {
+    "codigo": "09208",
+    "tipo": "comuna",
+    "nombre": "Purén",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "092"
+  },
+  {
+    "codigo": "09209",
+    "tipo": "comuna",
+    "nombre": "Renaico",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "092"
+  },
+  {
+    "codigo": "09210",
+    "tipo": "comuna",
+    "nombre": "Traiguén",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "092"
+  },
+  {
+    "codigo": "09211",
+    "tipo": "comuna",
+    "nombre": "Victoria",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "092"
+  },
+  {
+    "codigo": "14101",
+    "tipo": "comuna",
+    "nombre": "Valdivia",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "141"
+  },
+  {
+    "codigo": "14102",
+    "tipo": "comuna",
+    "nombre": "Corral",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "141"
+  },
+  {
+    "codigo": "14202",
+    "tipo": "comuna",
+    "nombre": "Futrono",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "142"
+  },
+  {
+    "codigo": "14201",
+    "tipo": "comuna",
+    "nombre": "La Unión",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "142"
+  },
+  {
+    "codigo": "14203",
+    "tipo": "comuna",
+    "nombre": "Lago Ranco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "142"
+  },
+  {
+    "codigo": "14103",
+    "tipo": "comuna",
+    "nombre": "Lanco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "141"
+  },
+  {
+    "codigo": "14104",
+    "tipo": "comuna",
+    "nombre": "Los Lagos",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "141"
+  },
+  {
+    "codigo": "14105",
+    "tipo": "comuna",
+    "nombre": "Máfil",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "141"
+  },
+  {
+    "codigo": "14106",
+    "tipo": "comuna",
+    "nombre": "Mariquina",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "141"
+  },
+  {
+    "codigo": "14107",
+    "tipo": "comuna",
+    "nombre": "Paillaco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "141"
+  },
+  {
+    "codigo": "14108",
+    "tipo": "comuna",
+    "nombre": "Panguipulli",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "141"
+  },
+  {
+    "codigo": "14204",
+    "tipo": "comuna",
+    "nombre": "Río Bueno",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "142"
+  },
+  {
+    "codigo": "10101",
+    "tipo": "comuna",
+    "nombre": "Puerto Montt",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "101"
+  },
+  {
+    "codigo": "10102",
+    "tipo": "comuna",
+    "nombre": "Calbuco",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "101"
+  },
+  {
+    "codigo": "10103",
+    "tipo": "comuna",
+    "nombre": "Cochamó",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "101"
+  },
+  {
+    "codigo": "10104",
+    "tipo": "comuna",
+    "nombre": "Fresia",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "101"
+  },
+  {
+    "codigo": "10105",
+    "tipo": "comuna",
+    "nombre": "Frutillar",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "101"
+  },
+  {
+    "codigo": "10106",
+    "tipo": "comuna",
+    "nombre": "Los Muermos",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "101"
+  },
+  {
+    "codigo": "10107",
+    "tipo": "comuna",
+    "nombre": "Llanquihue",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "101"
+  },
+  {
+    "codigo": "10108",
+    "tipo": "comuna",
+    "nombre": "Maullín",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "101"
+  },
+  {
+    "codigo": "10109",
+    "tipo": "comuna",
+    "nombre": "Puerto Varas",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "101"
+  },
+  {
+    "codigo": "10201",
+    "tipo": "comuna",
+    "nombre": "Castro",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "102"
+  },
+  {
+    "codigo": "10202",
+    "tipo": "comuna",
+    "nombre": "Ancud",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "102"
+  },
+  {
+    "codigo": "10203",
+    "tipo": "comuna",
+    "nombre": "Chonchi",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "102"
+  },
+  {
+    "codigo": "10204",
+    "tipo": "comuna",
+    "nombre": "Curaco de Vélez",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "102"
+  },
+  {
+    "codigo": "10205",
+    "tipo": "comuna",
+    "nombre": "Dalcahue",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "102"
+  },
+  {
+    "codigo": "10206",
+    "tipo": "comuna",
+    "nombre": "Puqueldón",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "102"
+  },
+  {
+    "codigo": "10207",
+    "tipo": "comuna",
+    "nombre": "Queilén",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "102"
+  },
+  {
+    "codigo": "10208",
+    "tipo": "comuna",
+    "nombre": "Quellón",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "102"
+  },
+  {
+    "codigo": "10209",
+    "tipo": "comuna",
+    "nombre": "Quemchi",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "102"
+  },
+  {
+    "codigo": "10210",
+    "tipo": "comuna",
+    "nombre": "Quinchao",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "102"
+  },
+  {
+    "codigo": "10301",
+    "tipo": "comuna",
+    "nombre": "Osorno",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "103"
+  },
+  {
+    "codigo": "10302",
+    "tipo": "comuna",
+    "nombre": "Puerto Octay",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "103"
+  },
+  {
+    "codigo": "10303",
+    "tipo": "comuna",
+    "nombre": "Purranque",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "103"
+  },
+  {
+    "codigo": "10304",
+    "tipo": "comuna",
+    "nombre": "Puyehue",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "103"
+  },
+  {
+    "codigo": "10305",
+    "tipo": "comuna",
+    "nombre": "Río Negro",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "103"
+  },
+  {
+    "codigo": "10306",
+    "tipo": "comuna",
+    "nombre": "San Juan de la Costa",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "103"
+  },
+  {
+    "codigo": "10307",
+    "tipo": "comuna",
+    "nombre": "San Pablo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "103"
+  },
+  {
+    "codigo": "10401",
+    "tipo": "comuna",
+    "nombre": "Chaitén",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "104"
+  },
+  {
+    "codigo": "10402",
+    "tipo": "comuna",
+    "nombre": "Futaleufú",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "104"
+  },
+  {
+    "codigo": "10403",
+    "tipo": "comuna",
+    "nombre": "Hualaihué",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "104"
+  },
+  {
+    "codigo": "10404",
+    "tipo": "comuna",
+    "nombre": "Palena",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "104"
+  },
+  {
+    "codigo": "11101",
+    "tipo": "comuna",
+    "nombre": "Coihaique",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "111"
+  },
+  {
+    "codigo": "11102",
+    "tipo": "comuna",
+    "nombre": "Lago Verde",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "111"
+  },
+  {
+    "codigo": "11201",
+    "tipo": "comuna",
+    "nombre": "Aisén",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "112"
+  },
+  {
+    "codigo": "11202",
+    "tipo": "comuna",
+    "nombre": "Cisnes",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "112"
+  },
+  {
+    "codigo": "11203",
+    "tipo": "comuna",
+    "nombre": "Guaitecas",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "112"
+  },
+  {
+    "codigo": "11301",
+    "tipo": "comuna",
+    "nombre": "Cochrane",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "113"
+  },
+  {
+    "codigo": "11302",
+    "tipo": "comuna",
+    "nombre": "O'Higgins",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "113"
+  },
+  {
+    "codigo": "11303",
+    "tipo": "comuna",
+    "nombre": "Tortel",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "113"
+  },
+  {
+    "codigo": "11401",
+    "tipo": "comuna",
+    "nombre": "Chile Chico",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "114"
+  },
+  {
+    "codigo": "11402",
+    "tipo": "comuna",
+    "nombre": "Río Ibáñez",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "114"
+  },
+  {
+    "codigo": "12101",
+    "tipo": "comuna",
+    "nombre": "Punta Arenas",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "121"
+  },
+  {
+    "codigo": "12102",
+    "tipo": "comuna",
+    "nombre": "Laguna Blanca",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "121"
+  },
+  {
+    "codigo": "12103",
+    "tipo": "comuna",
+    "nombre": "Río Verde",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "121"
+  },
+  {
+    "codigo": "12104",
+    "tipo": "comuna",
+    "nombre": "San Gregorio",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "121"
+  },
+  {
+    "codigo": "12201",
+    "tipo": "comuna",
+    "nombre": "Cabo de Hornos",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "122"
+  },
+  {
+    "codigo": "12202",
+    "tipo": "comuna",
+    "nombre": "Antártica",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "122"
+  },
+  {
+    "codigo": "12301",
+    "tipo": "comuna",
+    "nombre": "Porvenir",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "123"
+  },
+  {
+    "codigo": "12302",
+    "tipo": "comuna",
+    "nombre": "Primavera",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "123"
+  },
+  {
+    "codigo": "12303",
+    "tipo": "comuna",
+    "nombre": "Timaukel",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "123"
+  },
+  {
+    "codigo": "12401",
+    "tipo": "comuna",
+    "nombre": "Natales",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "124"
+  },
+  {
+    "codigo": "12402",
+    "tipo": "comuna",
+    "nombre": "Torres del Paine",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "124"
+  },
+  {
+    "codigo": "13101",
+    "tipo": "comuna",
+    "nombre": "Santiago",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13102",
+    "tipo": "comuna",
+    "nombre": "Cerrillos",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13103",
+    "tipo": "comuna",
+    "nombre": "Cerro Navia",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13104",
+    "tipo": "comuna",
+    "nombre": "Conchalí",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13105",
+    "tipo": "comuna",
+    "nombre": "El Bosque",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13106",
+    "tipo": "comuna",
+    "nombre": "Estación Central",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13107",
+    "tipo": "comuna",
+    "nombre": "Huechuraba",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13108",
+    "tipo": "comuna",
+    "nombre": "Independencia",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13109",
+    "tipo": "comuna",
+    "nombre": "La Cisterna",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13110",
+    "tipo": "comuna",
+    "nombre": "La Florida",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13111",
+    "tipo": "comuna",
+    "nombre": "La Granja",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13112",
+    "tipo": "comuna",
+    "nombre": "La Pintana",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13113",
+    "tipo": "comuna",
+    "nombre": "La Reina",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13114",
+    "tipo": "comuna",
+    "nombre": "Las Condes",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13115",
+    "tipo": "comuna",
+    "nombre": "Lo Barnechea",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13116",
+    "tipo": "comuna",
+    "nombre": "Lo Espejo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13117",
+    "tipo": "comuna",
+    "nombre": "Lo Prado",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13118",
+    "tipo": "comuna",
+    "nombre": "Macul",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13119",
+    "tipo": "comuna",
+    "nombre": "Maipú",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13120",
+    "tipo": "comuna",
+    "nombre": "Ñuñoa",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13121",
+    "tipo": "comuna",
+    "nombre": "Pedro Aguirre Cerda",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13122",
+    "tipo": "comuna",
+    "nombre": "Peñalolén",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13123",
+    "tipo": "comuna",
+    "nombre": "Providencia",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13124",
+    "tipo": "comuna",
+    "nombre": "Pudahuel",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13125",
+    "tipo": "comuna",
+    "nombre": "Quilicura",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13126",
+    "tipo": "comuna",
+    "nombre": "Quinta Normal",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13127",
+    "tipo": "comuna",
+    "nombre": "Recoleta",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13128",
+    "tipo": "comuna",
+    "nombre": "Renca",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13129",
+    "tipo": "comuna",
+    "nombre": "San Joaquín",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13130",
+    "tipo": "comuna",
+    "nombre": "San Miguel",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13131",
+    "tipo": "comuna",
+    "nombre": "San Ramón",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13132",
+    "tipo": "comuna",
+    "nombre": "Vitacura",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "131"
+  },
+  {
+    "codigo": "13201",
+    "tipo": "comuna",
+    "nombre": "Puente Alto",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "132"
+  },
+  {
+    "codigo": "13202",
+    "tipo": "comuna",
+    "nombre": "Pirque",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "132"
+  },
+  {
+    "codigo": "13203",
+    "tipo": "comuna",
+    "nombre": "San José de Maipo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "132"
+  },
+  {
+    "codigo": "13301",
+    "tipo": "comuna",
+    "nombre": "Colina",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "133"
+  },
+  {
+    "codigo": "13302",
+    "tipo": "comuna",
+    "nombre": "Lampa",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "133"
+  },
+  {
+    "codigo": "13303",
+    "tipo": "comuna",
+    "nombre": "Tiltil",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "133"
+  },
+  {
+    "codigo": "13401",
+    "tipo": "comuna",
+    "nombre": "San Bernardo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "134"
+  },
+  {
+    "codigo": "13402",
+    "tipo": "comuna",
+    "nombre": "Buin",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "134"
+  },
+  {
+    "codigo": "13403",
+    "tipo": "comuna",
+    "nombre": "Calera de Tango",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "134"
+  },
+  {
+    "codigo": "13404",
+    "tipo": "comuna",
+    "nombre": "Paine",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "134"
+  },
+  {
+    "codigo": "13501",
+    "tipo": "comuna",
+    "nombre": "Melipilla",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "135"
+  },
+  {
+    "codigo": "13502",
+    "tipo": "comuna",
+    "nombre": "Alhué",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "135"
+  },
+  {
+    "codigo": "13503",
+    "tipo": "comuna",
+    "nombre": "Curacaví",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "135"
+  },
+  {
+    "codigo": "13504",
+    "tipo": "comuna",
+    "nombre": "María Pinto",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "135"
+  },
+  {
+    "codigo": "13505",
+    "tipo": "comuna",
+    "nombre": "San Pedro",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "135"
+  },
+  {
+    "codigo": "13601",
+    "tipo": "comuna",
+    "nombre": "Talagante",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "136"
+  },
+  {
+    "codigo": "13602",
+    "tipo": "comuna",
+    "nombre": "El Monte",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "136"
+  },
+  {
+    "codigo": "13603",
+    "tipo": "comuna",
+    "nombre": "Isla de Maipo",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "136"
+  },
+  {
+    "codigo": "13604",
+    "tipo": "comuna",
+    "nombre": "Padre Hurtado",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "136"
+  },
+  {
+    "codigo": "13605",
+    "tipo": "comuna",
+    "nombre": "Peñaflor",
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "codigo_padre": "136"
+  }
+]
