@@ -1,4 +1,5 @@
 from flask import Blueprint, jsonify, current_app, render_template
+from app.extensions.limiter import limiter
 
 api_bp = Blueprint('api', __name__, url_prefix='/api')
 
@@ -87,3 +88,9 @@ def get_comuna(codigo):
 @api_bp.route('/docs/', methods=['GET'])
 def get_docs():
     return render_template("docs.html")
+
+
+@api_bp.route("/ping/")
+@limiter.limit("5 per minute")
+def ping():
+    return {"msg":"pong"}
