@@ -1,0 +1,50 @@
+{% extends "base.html" %} {% block title %}Docs - API Geo Chile{% endblock %} {%
+block content %}
+<div class="bg-white/85 p-6 rounded-lg shadow-md">
+  <h2 class="text-2xl font-bold text-blue-700 mb-4">Documentación</h2>
+  <p class="mb-6">
+    Esta API devuelve información en formato JSON sobre regiones, provincias y
+    comunas de Chile.
+  </p>
+</div>
+<!-- Recursos -->
+{% include "components/seccion_recursos.html" %}
+
+<!-- Endpoints -->
+<section class="mt-5 bg-white/85 p-6 rounded-lg shadow-md">
+  <h2 class="text-2xl font-semibold text-blue-700 mb-4">Endpoints</h2>
+  <ul class="list-disc ml-6 space-y-2">
+    <li><code>GET /api/regiones</code> → Listado de todas las regiones</li>
+    <li><code>GET /api/regiones/{codigo}</code> → Detalle de una región</li>
+    <li>
+      <code>GET /api/regiones/{codigo}/provincias</code> → Provincias de esa
+      región
+    </li>
+    <li>
+      <code>GET /api/provincias/{codigo}/comunas</code> → Comunas de esa
+      provincia
+    </li>
+    <li><code>GET /api/comunas/{codigo}</code> → Detalle de una comuna</li>
+  </ul>
+</section>
+
+<!-- Ejemplo -->
+<section class="mt-5 bg-white/85 p-6 rounded-lg shadow-md">
+  <h2 class="text-2xl font-semibold text-blue-700 mb-4">Ejemplo</h2>
+  <pre
+    class="bg-gray-900 text-green-300 font-mono p-3 rounded-lg overflow-x-auto"
+  >
+$ curl https://api-geo-chile.cl/api/regiones/13
+{
+  "codigo": "13",
+  "tipo": "region",
+  "nombre": "Metropolitana de Santiago",
+  "lat": null,
+  "lng": null,
+  "url": null,
+  "codigo_padre": null
+}
+    </pre
+  >
+</section>
+{% endblock %}

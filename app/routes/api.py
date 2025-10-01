@@ -1,4 +1,4 @@
-from flask import Blueprint, jsonify, current_app
+from flask import Blueprint, jsonify, current_app, render_template
 
 api_bp = Blueprint('api', __name__, url_prefix='/api')
 
@@ -80,4 +80,4 @@ def get_comuna(codigo):
 
 @api_bp.route('/docs/', methods=['GET'])
 def get_docs():
-    return jsonify({"message": "Documentación de la API Geo Chile"})
+    return render_template("docs.html")
