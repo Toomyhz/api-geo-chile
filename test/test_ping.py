@@ -1,7 +1,7 @@
 import pytest
 
 def test_ping(client):
-    for _ in range(3):
+    for _ in range(5):
         resp = client.get("/api/ping/")
         assert resp.status_code ==200
     resp = client.get("/api/ping/")
