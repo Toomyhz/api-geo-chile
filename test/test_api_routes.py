@@ -1,5 +1,3 @@
-import pytest
-
 def test_get_regiones(client):
     response = client.get('/api/regiones/')
     assert response.status_code == 200
