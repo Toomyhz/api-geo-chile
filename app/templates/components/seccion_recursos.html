@@ -1,0 +1,63 @@
+{% block recursos %}
+<section class="mt-5 bg-white/85 p-6 rounded-lg shadow-md">
+  <h2 class="text-2xl font-semibold text-blue-700 mb-4">Recursos</h2>
+  <p>
+    Cada consulta realizada retorna uno o más recursos del tipo <b>sector</b>.
+    Estos recursos tienen la siguiente estructura:
+  </p>
+  <table>
+    <thead>
+      <tr class="bg-blue-100">
+        <th class="border px-4 py-2 text-left">Campo</th>
+        <th class="border px-4 py-2 text-left">Tipo</th>
+        <th class="border px-4 py-2 text-left">Descripción</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="border px-4 py-2">codigo</td>
+        <td class="border px-4 py-2">string</td>
+        <td class="border px-4 py-2">Código único del sector.</td>
+      </tr>
+      <tr>
+        <td class="border px-4 py-2">tipo</td>
+        <td class="border px-4 py-2">string</td>
+        <td class="border px-4 py-2">
+          Tipo de sector, estos pueden ser: region, provincia y comuna.
+        </td>
+      </tr>
+      <tr>
+        <td class="border px-4 py-2">nombre</td>
+        <td class="border px-4 py-2">string</td>
+        <td class="border px-4 py-2">Nombre del sector.</td>
+      </tr>
+      <tr>
+        <td class="border px-4 py-2">lat</td>
+        <td class="border px-4 py-2">string</td>
+        <td class="border px-4 py-2">
+          Latitud de la posición geográfica del sector.
+        </td>
+      </tr>
+      <tr>
+        <td class="border px-4 py-2">long</td>
+        <td class="border px-4 py-2">string</td>
+        <td class="border px-4 py-2">
+          Longitud de la posición geográfica del sector.
+        </td>
+      </tr>
+      <tr>
+        <td class="border px-4 py-2">url</td>
+        <td class="border px-4 py-2">string</td>
+        <td class="border px-4 py-2">
+          URL del sitio oficial del sector (Municipalidad, etc).
+        </td>
+      </tr>
+      <tr>
+        <td class="border px-4 py-2">codigo_padre</td>
+        <td class="border px-4 py-2">string</td>
+        <td class="border px-4 py-2">Código del sector padre.</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+{% endblock recursos %}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{% block title %}API Geo Chile{% endblock %}</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='styles.css') }}"
+    />
+  </head>
+  <body
+    class="min-h-screen flex flex-col bg-cover bg-center bg-fixed text-gray-900"
+  >
+    <!-- Overlay oscuro para contraste -->
+    <div class="absolute inset-0 bg-black/40"></div>
+
+    <!-- Navbar -->
+    <header
+      class="w-1/2 mx-auto relative z-10 bg-white/80 shadow-md rounded-b-md"
+    >
+      <div
+        class="max-w-6xl mx-auto px-4 py-3 flex justify-between items-center"
+      >
+        <h1 class="text-lg font-bold text-blue-800">API Geo Chile</h1>
+        <nav class="space-x-4">
+          <a
+            href="/"
+            class="hover:text-blue-600 hover:bg-blue-100 transition duration-200"
+            >Inicio</a
+          >
+          <a href="/docs" class="hover:text-blue-600 transition duration-200"
+            >Docs</a
+          >
+          <a
+            href="https://github.com/toomyhz/api-geo-chile"
+            target="_blank"
+            class="hover:text-blue-600 transition duration-200"
+            >GitHub</a
+          >
+        </nav>
+      </div>
+    </header>
+
+    <!-- Contenido -->
+    <main class="relative z-10 flex-1 max-w-6xl mx-auto w-full px-4 py-8">
+      {% block content %}{% endblock %}
+    </main>
+
+    <!-- Footer -->
+    <footer class="relative z-10 bg-gray-100/80 text-sm py-3">
+      <div class="max-w-6xl mx-auto px-4 flex justify-between">
+        <span>© 2025 API Geo Chile (no oficial)</span>
+        <span>Hecho con Flask + Tailwind</span>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -16,4 +16,5 @@ def create_app():
     def index():
         return render_template("index.html")
 
+    app.config['JSON_AS_ASCII'] = False 
     return app
