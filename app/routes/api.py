@@ -54,8 +54,14 @@ def get_provincia(codigo):
 def get_comunas_por_provincia(codigo):
     if len(codigo) <= 2 or not codigo.isdigit():
         return jsonify({"error": "Código inválido"}), 400
-
+    
     sectores = current_app.config["SECTORES"]
+
+    provincia = next((sector for sector in sectores if sector['tipo'] == "provincia" and sector['codigo'] == codigo), None)
+    if not provincia:
+        return jsonify({"error": "Provincia no encontrada"}), 404
+
+
     comunas = [sector for sector in sectores if sector['tipo'] == "comuna" and sector['codigo'][:len(codigo)] == codigo]
     return jsonify(comunas)
 
